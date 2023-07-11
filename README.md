@@ -1,1 +1,2 @@
-## configruation files sued for Corne with ZMK
+## configruation files used for Corne with ZMK
+
